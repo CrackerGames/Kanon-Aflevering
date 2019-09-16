@@ -1,6 +1,7 @@
 
 class Kanon {
 
+//kode niget
 
 
   float x;
