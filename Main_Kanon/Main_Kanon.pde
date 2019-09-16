@@ -1,5 +1,7 @@
 Kanon k;
 
+//kommentar eller kode
+
 void setup(){
  size(700,700); 
  k = new Kanon();
