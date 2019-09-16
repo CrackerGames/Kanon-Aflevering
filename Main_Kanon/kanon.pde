@@ -35,4 +35,7 @@ class Kanon {
     
  
   }
+  
+  //kode kode kode
+  
 }
